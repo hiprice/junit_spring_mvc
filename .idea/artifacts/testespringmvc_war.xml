@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="testespringmvc:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="testespringmvc.war">
+      <element id="artifact" artifact-name="testespringmvc:war exploded" />
+    </root>
+  </artifact>
+</component>
